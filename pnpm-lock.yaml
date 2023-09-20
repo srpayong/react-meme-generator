@@ -4,6 +4,9 @@ dependencies:
   '@upleveled/react-scripts':
     specifier: 5.0.12
     version: 5.0.12(eslint@8.49.0)(react@18.2.0)(typescript@5.2.2)
+  file-saver:
+    specifier: ^2.0.5
+    version: 2.0.5
   react:
     specifier: ^18.2.0
     version: 18.2.0
@@ -5226,6 +5229,10 @@ packages:
       loader-utils: 2.0.4
       schema-utils: 3.3.0
       webpack: 5.88.2
+    dev: false
+
+  /file-saver@2.0.5:
+    resolution: {integrity: sha512-P9bmyZ3h/PRG+Nzga+rbdI4OEpNDzAVyy74uVO9ATgzLK6VtAsYybF/+TOCvrc0MO793d6+42lLyZTw7/ArVzA==}
     dev: false
 
   /filelist@1.0.4:
